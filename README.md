@@ -8,7 +8,10 @@ Refactor the Horiseon site
 * CSS
 
 ## Website
-TBD
+https://jonzee1914.github.io/code-refactor/
+
+## Screenshot
+![alt text](https://github.com/Jonzee1914/code-refactor/blob/main/screencapture-jonzee1914-github-io-code-refactor.png?raw=true)
 
 ## Contribution
 Made with ❤️ by Jonzee
