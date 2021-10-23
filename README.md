@@ -1,7 +1,12 @@
 # Challenge 1: Code Refactor
 
 ## Purpose
-Refactor the Horiseon site
+Refactor the Horiseon site to have:
+* Semantic HTML tags
+* A logical structure of HTML elements
+* Accessible alt attributes for images
+* Heading attributes that fall in sequential order
+* A concise, descriptive title 
 
 ## Built With
 * HTML
