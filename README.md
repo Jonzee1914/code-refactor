@@ -11,7 +11,7 @@ Refactor the Horiseon site
 https://jonzee1914.github.io/code-refactor/
 
 ## Screenshot
-![alt text](https://github.com/Jonzee1914/code-refactor/blob/main/screencapture-jonzee1914-github-io-code-refactor.png?raw=true)
+![alt text](https://github.com/Jonzee1914/code-refactor/blob/main/screencapture-jonzee1914-github-io-code-refactor.jpg?raw=true)
 
 ## Contribution
 Made with ❤️ by Jonzee
